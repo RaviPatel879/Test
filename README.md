@@ -1,3 +1,10 @@
-**2. API Description for Item(Income or Expense)**
+
+## Author
+
+- Ravi Gadhiya
 <br/>
-base = /api/items
+[https://github.com/Ravi879](https://github.com/Ravi879)
+<br/>
+[https://www.linkedin.com/in/gadhiyaravi](https://www.linkedin.com/in/gadhiyaravi)
+<br/>
+[gadhiyara@gmail.com](mail:gadhiyara@gmail.com)
