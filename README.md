@@ -109,18 +109,16 @@ Please feel free to submit [issues](https://github.com/Ravi879/BudgetManager-Rea
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
+[![alt text][3.1]][3]
 
-
-[1.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-24x24.png (linkedin icon with padding)
-[2.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/github-24x24.png (github icon with padding)
+[1.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-24x24.png (linkedin icon)
+[2.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/github-24x24.png (github icon)
+[3.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/email-24x24.png (email icon)
 
 
 [1]: https://www.linkedin.com/in/gadhiyaravi
-[2]: https://www.linkedin.com/in/gadhiyaravi
-
-[https://github.com/Ravi879](https://github.com/Ravi879) <br/>
-[https://www.linkedin.com/in/gadhiyaravi](https://www.linkedin.com/in/gadhiyaravi) <br/>
-[gadhiyara@gmail.com](mailto:gadhiyara@gmail.com)
+[2]: https://github.com/Ravi879
+[3]: mailto:gadhiyara@gmail.com
 
 
 ### Thanks
@@ -131,4 +129,3 @@ Enjoy 🤘
 <!-- credits for adding social media icons -->
 <!-- Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <!-- socialmediaicons https://github.com/paulrobertlloyd/socialmediaicons -->
-
